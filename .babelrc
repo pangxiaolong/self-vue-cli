@@ -1,0 +1,5 @@
+{
+    "presets": [
+        "@babel/preset-env" //babel 7.x以上的要配合安装@babel/core @babel/preset-env,presets已不再使用babel-preset-2015，而是使用@babel/preset-env取代
+    ]
+}
